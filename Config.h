@@ -7,6 +7,8 @@
 #define NUM_LEDS        169
 #define BRIGHTNESS_MAX  255
 
+#define PIN_BUTTON      5
+
 // === Global options ===
 #define USE_COLOR_TEMP  1
 #define COLOR_TEMP      Candle     // Candle, Tungsten40W, Halogen, Neutral, Daylight, Overcast, ClearBlueSky
